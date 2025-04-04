@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+li {
+    list-style: none;
+    border: 1px solid grey;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 20px;
+    width: 190px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.icon {
+    background-image: url('images/0-sprite.png');
+    background-repeat: no-repeat;
+    background-size: 400px 170px;
+    width: 150px;
+    height: 160px;
+    margin-top: 20px;
+}
+
+.i-html {
+    background-position: 10px 0px;
+}
+
+.i-css {
+    background-position: -118px 0px;
+}
+
+.i-js {
+    background-position: -260px 0px;
+}
