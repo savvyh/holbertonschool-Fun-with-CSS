@@ -8,7 +8,7 @@ Yes, <strong>no JavaScript!</strong> 😱
 
 0. Sprite languages : Reproduce the following image: <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/46bda485-a8c6-45ce-872f-a157491b3946" alt="html css and javascript logo">
+  <img src="https://github.com/user-attachments/assets/527debff-5230-4be2-b53a-82d803155477" alt="html css and javascript logo">
 </div>
 1. Move the (under)line : Generate this layout where the underline is hidden by default and appeared slowly…: <br>
 <div align="center">
